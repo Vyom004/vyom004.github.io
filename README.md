@@ -4,7 +4,7 @@ AI Filmmaker & Creative Director. Cinematic film, AI professional photography, A
 animation, hyperrealistic character work, and original music in Hindi and English — written,
 directed, scored and cut end to end.
 
-**Live:** https://<username>.github.io
+**Live:** https://vyom004.github.io
 
 ## What's here
 
